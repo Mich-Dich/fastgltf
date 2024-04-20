@@ -1,0 +1,4 @@
+C:/CustomGameEngine/PFF/PFF/vendor/fastgltf/CMakeFiles/fastgltf.dir
+C:/CustomGameEngine/PFF/PFF/vendor/fastgltf/CMakeFiles/INSTALL.dir
+C:/CustomGameEngine/PFF/PFF/vendor/fastgltf/CMakeFiles/ALL_BUILD.dir
+C:/CustomGameEngine/PFF/PFF/vendor/fastgltf/CMakeFiles/ZERO_CHECK.dir
