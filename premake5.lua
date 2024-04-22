@@ -48,5 +48,6 @@ project "fastgltf"
 		optimize "speed"
 
 	filter "configurations:Release"
+		buildoptions "/MD"
 		runtime "Release"
 		optimize "on"
